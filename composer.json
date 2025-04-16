@@ -1,16 +1,16 @@
 {
-  "name": "apachish/persian-number-to-word",
+  "name": "vanaboom/persian-number-to-word",
   "description": "Converts number to word in persian",
   "keywords": [
     "numbers-to-words",
     "persian"
   ],
-  "homepage": "https://github.com/apachish/php-number-to-words",
+  "homepage": "https://github.com/vanaboom/persian-number-to-word",
   "license": "MIT",
   "authors": [
     {
-      "name": "mojtabaa hn",
-      "email": "info@apachish.ir",
+      "name": "VanaBoom",
+      "email": "dev@vanaboom.ir",
       "role": "Developer"
     }
   ],
